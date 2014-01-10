@@ -12,7 +12,19 @@
     "target_path": "device/sony/qcom-common"
   },
   {
+    "repository": "android_vendor_sony_qcom-common",
+    "target_path": "vendor/sony/qcom-common"
+  },
+  {
+    "repository": "android_vendor_sony_honami",
+    "target_path": "vendor/sony/honami"
+  },
+  {
     "repository": "android_device_sony_rhine-common",
     "target_path": "device/sony/rhine-common"
+  },
+  {
+    "repository": "android_vendor_sony_rhine-common",
+    "target_path": "vendor/sony/rhine-common"
   }
 ]
